@@ -10,7 +10,7 @@ The main services included are:
 
 ## Usage
 ```
-$ git clone https://github.com/davidecesarano/docker-compose-lamp.git
+$ git clone https://github.com/unipegaso/docker-lamp-node.git
 $ cd docker-lamp-node
 $ docker-compose up -d
 ```
